@@ -13,7 +13,7 @@
         &#x2022; I'm a 1st-year B.Tech. (DS) student at the School of Information Technology RGPV. <br/>
         &#x2022; Passionate about Web Development. Currently, exploring technological fields. <br/>
         &#x2022; Looking to collaborate with other developers. <br/>
-        &#x2022; Learning more tools and technologies which are mentioned below to build big projects.
+        &#x2022; Learning more tools and technologies to build big projects.
       </p>
       <hr/>
     </div>
