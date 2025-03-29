@@ -3,7 +3,7 @@
   </head>
   <body>
     <div>
-      <strong>Hello there!! Mousami Ghosh this side🌻</strong><br/> 
+      <strong style="display:flex; align-item:centre; justify-content:centre">Hello there!! Mousami Ghosh this side🌻</strong><br/> 
       <img src="https://i.pinimg.com/564x/ec/b7/71/ecb7717b8b61b205d162da2697c574f9.jpg" style="width:1500px;height:150px;">
   <hr/>
     </div>
