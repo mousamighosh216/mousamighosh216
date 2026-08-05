@@ -1,4 +1,6 @@
+<h1 align="center">
 ![Header](assets/rain.gif)
+</h1>
 
 <br>
 
