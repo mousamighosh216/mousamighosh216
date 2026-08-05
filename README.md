@@ -1,6 +1,6 @@
-<h1 align="center">
-![Header](assets/rain.gif)
-</h1>
+<p align="center">
+  <img src="assets/rain.gif" alt="Header">
+</p>
 
 <br>
 
