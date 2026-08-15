@@ -10,7 +10,7 @@
 
 -   :book: 3rd year student at **School of Information Technology, Bhopal**
 -   :monocle_face: Interested in everything **that catches my attention**
--   :seedling: Currently learning **how can i code in binary**
+-   :seedling: Currently learning **how can i code using my hands**
 -   :heart: I love books!
 
 <br>
